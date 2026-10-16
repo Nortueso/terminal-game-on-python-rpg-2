@@ -14,5 +14,4 @@ class Heroes:
 class Vampires(Heroes):
     def blooddrunk(self):
         print(f" {self.name} drink blood with {self.damage} damage.")
-my_vamp = ["ДИО", "stand", " vampire", 31]
-my_vamp.blooddrunk()
+
